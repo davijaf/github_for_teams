@@ -1,1 +1,1 @@
-#GitHub for Teams#
+# GitHub for Teams #
